@@ -1,0 +1,4 @@
+status,maSo,hoTen,dienThoai,loaiDaiLy,duNo
+true,DL0001,Dai ly Ha Noi,0902222001,Cap 1,2500000.0
+true,DL0002,Dai ly Sai Gon,0902222002,Cap 1,4800000.0
+true,DL0003,Dai ly Da Nang,0902222003,Cap 2,1250000.0

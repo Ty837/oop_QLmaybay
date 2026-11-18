@@ -1,0 +1,3 @@
+thoiGian,taiKhoan,vaiTro,hanhDong,doiTuong,maDoiTuong,ghiChu
+2026-11-15T23:47:38.372779300,admin,Quản trị viên,Ngừng hoạt động,Hành khách,HK0002,Hồ sơ được giữ để tra cứu lịch sử.
+2026-11-15T23:47:54.125564900,admin,Quản trị viên,Ngừng hoạt động,Chuyến bay,CB0001,Chuyến bay không còn nhận đặt vé.

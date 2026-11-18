@@ -1,0 +1,7 @@
+maVe,daHuy
+VE0001,true
+VE0002,true
+VE0003,false
+VE0004,false
+VE0005,true
+VE0006,false
